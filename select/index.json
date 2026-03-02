@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "BUTCHER VANITY",
+  "base_artist": "FLAVOR FOLEY",
+  "createdAt": "2026-03-02T01:04:51.904414Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Butcher Vanity (feat. Jamie Paige & ricedeity)",
+      "artist": "Vane Lily",
+      "has_synced": true,
+      "path": "select/01_Butcher_Vanity_(feat._Jamie_Paige_&_ricedeity)_Vane_Lily.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Butcher Vanity",
+      "artist": "Vane Lily",
+      "has_synced": true,
+      "path": "select/02_Butcher_Vanity_Vane_Lily.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Butcher Vanity (cover/arrangement)",
+      "artist": "Yonkagor",
+      "has_synced": true,
+      "path": "select/03_Butcher_Vanity_(cover_arrangement)_Yonkagor.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BUTCHER VANITY",
+      "artist": "Trickle",
+      "has_synced": true,
+      "path": "select/04_BUTCHER_VANITY_Trickle.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Butcher Vanity",
+      "artist": "Vane Lily/Jamie Paige/ricedeity",
+      "has_synced": true,
+      "path": "select/05_Butcher_Vanity_Vane_Lily_Jamie_Paige_ricedeity.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BUTCHER VANITY / Yi Xi",
+      "artist": "Vane Lily",
+      "has_synced": false,
+      "path": "select/06_BUTCHER_VANITY___Yi_Xi_Vane_Lily.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Butcher Vanity (feat. Jamie Paige",
+      "artist": "Vane Lily",
+      "has_synced": true,
+      "path": "select/07_Butcher_Vanity_(feat._Jamie_Paige_Vane_Lily.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Butcher Vanity (feat. Jamie Paige & ricedeity)",
+      "artist": "Vane Lily, Jamie Paige, ricedeity",
+      "has_synced": true,
+      "path": "select/08_Butcher_Vanity_(feat._Jamie_Paige_&_ricedeity)_Vane_Lily,_Jamie_Paige,_ricedeity.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Butcher Vanity (feat. Jamie Paige & ricedeity)",
+      "artist": "Vane Lily",
+      "has_synced": true,
+      "path": "select/09_Butcher_Vanity_(feat._Jamie_Paige_&_ricedeity)_Vane_Lily.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Butcher Vanity",
+      "artist": "FLAVOR FOLEY",
+      "has_synced": true,
+      "path": "select/10_Butcher_Vanity_FLAVOR_FOLEY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BUTCHER VANITY",
+      "artist": "FLAVOR FOLEY",
+      "has_synced": true,
+      "path": "select/11_BUTCHER_VANITY_FLAVOR_FOLEY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BUTCHER VANITY",
+      "artist": "FLAVOR FOLEY",
+      "has_synced": true,
+      "path": "select/12_BUTCHER_VANITY_FLAVOR_FOLEY.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Butcher Vanity",
+      "artist": "Vane Lily, Jamie Paige, ricedeity",
+      "has_synced": true,
+      "path": "select/13_Butcher_Vanity_Vane_Lily,_Jamie_Paige,_ricedeity.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BUTCHER VANITY (JubyPhonic)",
+      "artist": "FLAVOR FOLEY",
+      "has_synced": false,
+      "path": "select/14_BUTCHER_VANITY_(JubyPhonic)_FLAVOR_FOLEY.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "BUTCHER VANITY (WitcheswithGlitches Remix)",
+      "artist": "Vane Lily",
+      "has_synced": true,
+      "path": "select/15_BUTCHER_VANITY_(WitcheswithGlitches_Remix)_Vane_Lily.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BUTCHER VANITY",
+      "artist": "FLAVOR FOLEY",
+      "has_synced": false,
+      "path": "select/pl_01_BUTCHER_VANITY_FLAVOR_FOLEY.txt"
+    }
+  ]
+}
